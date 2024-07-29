@@ -67,10 +67,15 @@ La empresa familiar **Límine Energía Renovable** busca expandir sus **ventas**
 
 ### **ALCANCE DEL PROYECTO**
 
-Una vez planteado el contexto, se decidio desglozar los objetivos previamente aclarados. Los cuales generan los siguientes "sub-objetivos" o "metas" a alcanzar.
+- **E-commerce**:
+    1. About us.
+    2. Catálogo de Productos.
+    3. Carrito de Compras.
+    4. Metodos de Pago y Facturación.
 
-## **OBJETIVOS SMART**
+### **OBJETIVOS SMART**
 
 1. Generar un espacio de encuentro entre la empresa y el cliente. Es importante que en el e-commerce haya una seccion "About Us", en donde se hablará brevemente de la empresa, como por ejempl, intereses, objetivos e integrantes de la misma.
 2. Generar un catálago para la visualización de los productos. Con esto, estariamos logrando informar al cliente sobre los productos, su stock y precio. Ademas, esto tambien le brinda a Límine un sistema de facturacion, control de stock y precios a la hora de gestionar la empresa.
-3. Generar una logica de negocio para la venta de productos atraves de la pagina web (e-commerce). Se hará un sistema de pedidos con carrito para que el cliente pueda seleccionar productos del catalago y realizar asi, la compra. Buscaremos contratar un microservicio para los distintos metodos de pago.
+3. Generar una logica de negocio para la venta de productos atraves de la pagina web (e-commerce). Se hará un sistema de pedidos con carrito de compras para que el cliente pueda seleccionar productos del catalago.
+4. Generar metodos de pago y facturación. Buscaremos contratar un microservicio para los distintos metodos de pago y la factuación de la compra.
