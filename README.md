@@ -41,7 +41,9 @@ La empresa familiar **Límine Energía Renovable** busca expandir sus **ventas**
 
 #### **EQUIPO DE TRABAJO** (Generado con ChatGPT)
 
-#### **Product Owner: Ana López**
+#### **Scrum Master: Vicente Daniel D'Alessandro** (Project Manager)
+
+#### **Product Owner: Ana López** (Ayudante de Project Manager)
 
 **Fortalezas:**
 - Técnicas: Amplia experiencia en la gestión de proyectos, excelente comprensión del ciclo de vida del desarrollo de software, habilidades avanzadas en la planificación y priorización de tareas.
@@ -92,4 +94,3 @@ La empresa familiar **Límine Energía Renovable** busca expandir sus **ventas**
 - Emocionales: A veces puede ser demasiado meticulosa, lo que puede llevar a conflictos con el equipo cuando los plazos son ajustados.
 
 Este equipo balancea habilidades técnicas y emocionales, lo que es crucial para el desarrollo efectivo y armónico de la aplicación.
-
