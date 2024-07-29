@@ -1,6 +1,6 @@
-# Project-Manager-Entregable-Final
+# E-COMMERCE - LÍMINE | PROJECT MANAGER - ENTREGABLE FINAL.
 
-## Team
+## TEAM
 
 ### **Product Manager: Ana López**
 **Fortalezas:**
@@ -48,3 +48,29 @@
 - Emocionales: A veces puede ser demasiado meticulosa, lo que puede llevar a conflictos con el equipo cuando los plazos son ajustados.
 
 Este equipo balancea habilidades técnicas y emocionales, lo que es crucial para el desarrollo efectivo y armónico de la aplicación.
+
+1. ## DESCRIPCIÓN DEL PROYECTO
+
+### **CONTEXTO**
+
+La empresa familiar **Límine Energía Renovable** busca expandir sus **ventas** más allá de Junín, Bolívar y la zona. Cómo principal interes se busca lograr un **e-commerce** donde los clientes/usuarios tengan un catálogo de productos y puedan realizar compras atraves de la plataforma. 
+
+### **OBJETIVOS PRINCIPALES**
+1. Expandir las ventas a todo el país.
+2. Generar un e-commerce para facilitar el **OBJETIVO N°1**
+
+### **STAKEHOLDERS**
+
+- WEGA ENERGY
+
+2. ## PLANIFICACIÓN INICIAL
+
+### **ALCANCE DEL PROYECTO**
+
+Una vez planteado el contexto, se decidio desglozar los objetivos previamente aclarados. Los cuales generan los siguientes "sub-objetivos" o "metas" a alcanzar.
+
+## **OBJETIVOS SMART**
+
+1. Generar un espacio de encuentro entre la empresa y el cliente. Es importante que en el e-commerce haya una seccion "About Us", en donde se hablará brevemente de la empresa, como por ejempl, intereses, objetivos e integrantes de la misma.
+2. Generar un catálago para la visualización de los productos. Con esto, estariamos logrando informar al cliente sobre los productos, su stock y precio. Ademas, esto tambien le brinda a Límine un sistema de facturacion, control de stock y precios a la hora de gestionar la empresa.
+3. Generar una logica de negocio para la venta de productos atraves de la pagina web (e-commerce). Se hará un sistema de pedidos con carrito para que el cliente pueda seleccionar productos del catalago y realizar asi, la compra. Buscaremos contratar un microservicio para los distintos metodos de pago.
