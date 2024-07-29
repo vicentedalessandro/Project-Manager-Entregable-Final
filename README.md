@@ -1,5 +1,7 @@
 # Project-Manager-Entregable-Final
 
+## Team
+
 ### **Product Manager: Ana López**
 **Fortalezas:**
 - Técnicas: Amplia experiencia en la gestión de proyectos, excelente comprensión del ciclo de vida del desarrollo de software, habilidades avanzadas en la planificación y priorización de tareas.
