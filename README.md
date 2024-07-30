@@ -105,7 +105,22 @@ Las **Historias de Usuarios**, el **Backlog** y los **Sprints** estan definidos 
 
 ### **SELECCIÓN DE UN TABLERO COLABORATIVO**
 
-Como tablero colaborativo he seleccionado **Trello**. https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final
+Como tablero colaborativo he seleccionado **Trello**. 
+https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final
 
+**Justificacíon** 
+Vi un poco de **Jira**, es una herramienta bastante fuerte, pero todavia no tengo practica en ella. Con Trello ya tenia un contacto mas cercano, aun asi no llego a utilizarlo a su maximo potencia. Sentia que podia ser la herramienta adecuada para realizar este proyecto por su sencilles a la hora de manejar tableros, tarjetas y tareas.
 
-**Justificacíon:** 
+**Ejemplos de Uso**
+Este contendra 6 tableros:
+
+- **Historias de Usuarios**: contendra una lista ordenada de las historias de usuarios.
+- **Backlog**: contendra una lista ordenada de las funcionalidades que requiere el producto.
+- **Sprints**: contendra los distintos sprinst programados con sus backlogs seleccionados y sus tareas correspondientes.
+- **To-do**: tareas por hacer.
+- **Current**: tareas en desarrollo.
+- **Done**: tareas terminadas.
+
+Las últimos 3 tableros (To-do, Current, Done) serviran como una guia para la realizacion de tareas, mantener cierta organizacion con los tiempos y cantidad de tareas que se haran en simultaneo.
+
+<img src="/imagenes/hu-backlog-sprints.png" alt="Tableros con Historias de Usuarios, Backlog y Sprints" border="5px solid red"/>
