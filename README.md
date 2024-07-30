@@ -97,9 +97,9 @@ La empresa **Límine Energía Renovable** busca expandir sus **ventas** más all
 
 #### **DESCRIPCIÓN Y PLANIFICACIÓN**
 
-#### **HISTORIAS DE USUARIOS - BACKLOG - SPRINST**
+#### **HISTORIAS DE USUARIOS - BACKLOG - SPRINTS**
 
-Las **Historias de Usuarios**, el **Backlog** y los **Sprinst** estan definidos en el tablero colaborativo.
+Las **Historias de Usuarios**, el **Backlog** y los **Sprints** estan definidos en el tablero colaborativo.
 
 ## 4. **USO DE TABLEROS COLABORATIVOS**
 
