@@ -123,4 +123,4 @@ Este contendra 6 tableros:
 
 Las últimos 3 tableros (To-do, Current, Done) serviran como una guia para la realizacion de tareas, mantener cierta organizacion con los tiempos y cantidad de tareas que se haran en simultaneo.
 
-<img src="imagenes\hu-backlog-sprints.png" alt="Tableros con Historias de Usuarios, Backlog y Sprints" border="5px solid red"/>
+![Tableros con Historias de Usuarios, Backlog y Sprints](imagenes\hu-backlog-sprints.png)
