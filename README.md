@@ -1,6 +1,6 @@
 # E-COMMERCE DE LÍMINE | PROJECT MANAGER - ENTREGABLE FINAL.
 
-1. ## DESCRIPCIÓN DEL PROYECTO
+## 1. DESCRIPCIÓN DEL PROYECTO
 
 ### **CONTEXTO**
 
@@ -14,7 +14,7 @@ La empresa **Límine Energía Renovable** busca expandir sus **ventas** más all
 
 - WEGA ENERGY
 
-2. ## PLANIFICACIÓN INICIAL
+## 2. PLANIFICACIÓN INICIAL
 
 ### **ALCANCE DEL PROYECTO**
 
@@ -35,7 +35,7 @@ La empresa **Límine Energía Renovable** busca expandir sus **ventas** más all
 
 **WEGA ENERGY** es el principal proveedor de Límine. Por eso, se buscara mostrar en la pagina un espacio pequeño, pero informativo y de redirección. Con eso ultimo, nos referimos a direccionar al cliete, si asi lo desea, a la página oficial de Wega Energy y asi saber más sobre ellos.
 
-3. ## **IMPLEMENTACIÓN DE SCRUM**
+## 3. **IMPLEMENTACIÓN DE SCRUM**
 
 ### **DEFINICIÓN DE ROLES DE SCRUM**
 
@@ -101,7 +101,7 @@ La empresa **Límine Energía Renovable** busca expandir sus **ventas** más all
 
 Las **Historias de Usuarios**, el **Backlog** y los **Sprinst** estan definidos en el tablero colaborativo.
 
-4. ## **USO DE TABLEROS COLABORATIVOS**
+## 4. **USO DE TABLEROS COLABORATIVOS**
 
 ### **SELECCIÓN DE UN TABLERO COLABORATIVO**
 
