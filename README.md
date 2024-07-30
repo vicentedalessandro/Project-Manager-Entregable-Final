@@ -4,7 +4,7 @@
 
 ### **CONTEXTO**
 
-La empresa familiar **Límine Energía Renovable** busca expandir sus **ventas** más allá de Junín, Bolívar y la zona. Cómo principal interes se busca lograr un **e-commerce** donde los clientes/usuarios tengan un catálogo de productos y puedan realizar compras atraves de la plataforma. 
+La empresa **Límine Energía Renovable** busca expandir sus **ventas** más allá de Junín, Bolívar y la zona. Cómo principal interes se busca lograr un **e-commerce** donde los clientes/usuarios tengan un catálogo de productos y puedan realizar compras atraves de la plataforma. 
 
 ### **OBJETIVOS PRINCIPALES**
 1. Expandir las ventas a todo el país.
@@ -37,11 +37,11 @@ La empresa familiar **Límine Energía Renovable** busca expandir sus **ventas**
 
 3. ## **IMPLEMENTACIÓN DE SCRUM**
 
-### **DEFINICIÓN DE ROLES  DE SCRUM**
+### **DEFINICIÓN DE ROLES DE SCRUM**
 
-#### **EQUIPO DE TRABAJO** (Generado con ChatGPT)
+#### **EQUIPO DE TRABAJO** (Generado con la ayuda de ChatGPT)
 
-#### **Scrum Master: Vicente Daniel D'Alessandro** (Project Manager)
+#### **Scrum Master: Vicente Daniel D'Alessandro** (Project Manager) <--- No estoy hecho con ChatGPT :)
 
 #### **Product Owner: Ana López** (Ayudante de Project Manager)
 
@@ -93,4 +93,19 @@ La empresa familiar **Límine Energía Renovable** busca expandir sus **ventas**
 - Técnicas: Conocimientos limitados en el desarrollo de software y debugging avanzado.
 - Emocionales: A veces puede ser demasiado meticulosa, lo que puede llevar a conflictos con el equipo cuando los plazos son ajustados.
 
-Este equipo balancea habilidades técnicas y emocionales, lo que es crucial para el desarrollo efectivo y armónico de la aplicación.
+### **CEREMONIAS SCRUM**
+
+#### **DESCRIPCIÓN Y PLANIFICACIÓN**
+
+#### **HISTORIAS DE USUARIOS - BACKLOG - SPRINST**
+
+Las **Historias de Usuarios**, el **Backlog** y los **Sprinst** estan definidos en el tablero colaborativo.
+
+4. ## **USO DE TABLEROS COLABORATIVOS**
+
+### **SELECCIÓN DE UN TABLERO COLABORATIVO**
+
+Como tablero colaborativo he seleccionado **Trello**. https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final
+
+
+**Justificacíon:** 
