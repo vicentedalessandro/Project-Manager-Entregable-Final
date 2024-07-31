@@ -97,6 +97,60 @@ La empresa **Límine Energía Renovable** busca expandir sus **ventas** más all
 
 #### **DESCRIPCIÓN Y PLANIFICACIÓN**
 
+#### 1. **Daily Stand-up**
+
+**Descripción**
+
+Se buscará mantener al equipo sincronizado con el objetivo de identificar obstáculos y planificar el trabajo del día. Tendra una duración maxima de 15 minutos y se realizara de forma diaria.
+
+**Planificación**
+
+En este encuentro diario va a participar todo el equipo (Scrum Master, Product Owner, y el equipo de desarrollo) donde cada miembro del equipo responde a tres preguntas:
+1. ¿Qué hice ayer?
+2. ¿Qué voy a hacer hoy?
+3. ¿Hay algún obstáculo en mi camino?
+
+#### 2. **Sprint Planning**
+
+**Descripción**
+
+Se buscará definir qué se va a lograr en el próximo sprint y cómo se va a hacer. Este encuentro se realizara al inicio de cada sprint y tendra una duración de 2 a 4 horas. Esto último va a variar dependiendo de la duración del sprint.
+
+**Planificación**
+
+En este encuentro va a participar todo el equipo Scrum. Dondé se útilizara una agenda que contiene las siguientes tres etapas:
+- **Revisión del Backlog del Producto:** el Product Owner presenta los ítems prioritarios.
+- **Establecimiento del Objetivo del Sprint:** el equipo decide qué se puede lograr durante el sprint.
+- **División de Tareas:** desglosar los ítems seleccionados en tareas más pequeñas y manejables.
+
+A partir de aca se utilizara un tablero colaborativo, en este caso, **Trello**.
+
+#### 3. **Sprint Review**
+
+**Descripción**
+
+Se buscará mostrar el trabajo completado durante el sprint y se hara un feedback con las partes interesadas. Este encuentro se realizara al final de cada sprint y tendra una duración de 1 a 2 horas.
+
+**Planificación**
+
+En este encuentro va a participar todo el equipo Scrum y el cliente. Dondé se útilizara nuevamente una agenda que contiene las siguientes tres etapas:
+- **Demostración:** el equipo va a mostrar el trabajo terminado.
+- **Feedback:** obtener comentarios de las partes interesadas.
+- **Actualización del Backlog del Producto:** acomodar el backlog respecto al feedback recibido.
+
+#### 4. **Sprint Retrospective**
+
+**Descripción**
+
+Se buscará reflexionar sobre el sprint anterior para mejorar los procesos y la colaboración del equipo. Este encuentro se realizara al final de cada sprint, después de la Sprint Review y tendra una duración de 1 a 2 horas.
+
+**Planificación**
+
+En este encuentro va a participar todo el equipo Scrum. Dondé se útilizara por tercera vez una agenda que contiene las siguientes tres etapas:
+- **Revisión del Sprint:** reflexionar sobre lo que salio bien, lo que salio mal y lo que se puede mejorar.
+- **Ver Mejoras:** Proponer metodos para mejorar en el próximo sprint.
+- **Plan de Mejoras:** delegar responsabilidades para las mejoras propuestas en el punto anterior.
+
 #### **HISTORIAS DE USUARIOS - BACKLOG - SPRINTS**
 
 Las **Historias de Usuarios**, el **Backlog** y los **Sprints** estan definidos en el tablero colaborativo.
