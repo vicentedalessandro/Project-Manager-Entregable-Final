@@ -178,12 +178,18 @@ Este contendra 6 tableros
 
 Las últimos 3 tableros (To-do, Current, Done) serviran como una guia para la realizacion de tareas, mantener cierta organizacion con los tiempos y cantidad de tareas que se haran en simultaneo.
 
+---
+
 ### **Tableros con Historias de Usuarios, Backlog y Sprints**
 ![Tableros con Historias de Usuarios, Backlog y Sprints](/imagenes/hu-backlog-sprints.png)
+
 ### **Tareas del Sprint**
 ![Tareas de los Sprints](/imagenes/sprint-task.png)
+
 ### **Tablero con las distintas estapas de una Tarea**
 ![Tableros de Tareas](/imagenes/todo-current-done.png)
+
+---
 
 ## 5. **DEFINICIÓN DE ENTREGABLES, CRITERIOS DE ACEPTACIÓN Y ESTIMACIÓN DE TIEMPO**
 
@@ -302,3 +308,5 @@ avanzadas)
 - Problemas de compatibilidad con dispositivos.
 - Baja adopción por parte de los usuarios.
 - Dependencia de integraciones con otras herramientas.
+
+## 7. **EVALUACIÓN DE RIESGOS Y PRIORIZACIÓN**
