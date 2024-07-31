@@ -159,8 +159,7 @@ Las **Historias de Usuarios**, el **Backlog** y los **Sprints** estan definidos 
 
 ### **SELECCIÓN DE UN TABLERO COLABORATIVO**
 
-Como tablero colaborativo he seleccionado **Trello**. 
-https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final
+Como tablero colaborativo he seleccionado [**Trello**](https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final).
 
 **JUSTIFICACIÓN** 
 
@@ -205,16 +204,17 @@ avanzadas)
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 15 días.
     - Sprints: son 2 con una duracion de 1 semana cada uno.
-    - Tareas del Sprint 1:
-        - Tarea uno: 2 - 3 horas
-        - Tarea dos: 2 - 3 horas
-        - Tarea tres: 2 - 3 horas
-    - Tareas del Sprint 2:
-        - Tarea uno: 8 horas
-        - Tarea dos: 6 - 8 horas
-        - Tarea tres: 3 - 4 horas    
-        - Tarea cuatro: 2 - 3 horas
-        - Tarea cinco: 3 - 4 horas
+        - Tareas del Sprint 1:
+            - Tarea uno: 2 - 3 horas
+            - Tarea dos: 2 - 3 horas
+            - Tarea tres: 2 - 3 horas
+        - Tareas del Sprint 2:
+            - Tarea uno: 8 horas
+            - Tarea dos: 6 - 8 horas
+            - Tarea tres: 3 - 4 horas    
+            - Tarea cuatro: 2 - 3 horas
+            - Tarea cinco: 3 - 4 horas
+    - Ver tareas en [**Trello**](https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final)
 
 ### **SEGUNDO ENTREGABLE**
 
@@ -226,21 +226,22 @@ avanzadas)
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 1 mes.
     - Sprints: son 2 con una duracion de 2 semana cada uno.
-    - Tareas del Sprint 1:
-        - Tarea uno: 8 horas
-        - Tarea dos: 6 - 8 horas
-        - Tarea tres: 3 - 4 horas    
-        - Tarea cuatro: 2 - 3 horas
-        - Tarea cinco: 3 - 4 horas
-    - Tareas del Sprint 2:
-        - Tarea uno: 8 - 10 horas
-        - Tarea dos: 10 - 12 horas
-        - Tarea tres: 3 - 4 horas
-        - Tarea cuatro: 2 - 3 horas
-        - Tarea cinco: 2 - 3 horas
-        - Tarea seis: 1 - 2 horas
-        - Tarea siete: 6 - 8 horas
-        - Tarea ocho: 6 - 7 horas
+        - Tareas del Sprint 1:
+            - Tarea uno: 8 horas
+            - Tarea dos: 6 - 8 horas
+            - Tarea tres: 3 - 4 horas    
+            - Tarea cuatro: 2 - 3 horas
+            - Tarea cinco: 3 - 4 horas
+        - Tareas del Sprint 2:
+            - Tarea uno: 8 - 10 horas
+            - Tarea dos: 10 - 12 horas
+            - Tarea tres: 3 - 4 horas
+            - Tarea cuatro: 2 - 3 horas
+            - Tarea cinco: 2 - 3 horas
+            - Tarea seis: 1 - 2 horas
+            - Tarea siete: 6 - 8 horas
+            - Tarea ocho: 6 - 7 horas
+    - Ver tareas en [**Trello**](https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final)
 
 ### **TERCER ENTREGABLE**
 
@@ -252,49 +253,51 @@ avanzadas)
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 1 mes y 15 días.
     - Sprints: son 2 con una duracion de 3 semanas cada uno.
-    - Tareas del Sprint 1:
-        - Tarea uno: 10 - 12 horas
-        - Tarea dos: 16 - 18 horas
-        - Tarea tres: 3 - 4 horas
-        - Tarea cuatro: 6 - 7 horas
-        - Tarea cinco: 4 - 6 horas
-        - Tarea seis: 3 - 4 horas
-        - Tarea siete: 6 - 8 horas
-        - Tarea ocho: 2 - 4 horas
-        - Tarea nueve: 1 - 2 horas
-        - Tarea diez: 2 - 4 horas
-        - Tarea once: 2 - 4 horas
-        - Tarea doce: 1 - 2 horas
-        - Tarea trece: 2 horas
-        - Tarea catorce: 2 - 3 horas
-        - Tarea quince: 2 horas
-    - Tareas del Sprint 2:
-        - Tarea uno: 8 horas
-        - Tarea dos: 8 - 10 horas
-        - Tarea tres: 2 horas
-        - Tarea cuatro: 2 horas
-        - Tarea cinco: 4 horas
-        - Tarea seis: 2 - 3 horas
-        - Tarea siete: 5 - 6 horas
-        - Tarea ocho: 6 - 7 horas
-        - Tarea nueve: 2 - 3 horas
-        - Tarea diez: 2 horas
-        - Tarea once: 3 - 4 horas
-        - Tarea doce: 1 - 2 horas
-        - Tarea trece: 3 - 4 horas
-        - Tarea catorce: 2 horas
-        - Tarea quince: 3 horas
-        - Tarea dieciséis: 1 hora
-        - Tarea diecisiete: 1 hora
-        - Tarea dieciocho: 30 min
-        - Tarea diecinueve: 1 hora
-        - Tarea veinte: 1 hora
-        - Tarea veintiuno: 30 min
+        - Tareas del Sprint 1:
+            - Tarea uno: 10 - 12 horas
+            - Tarea dos: 16 - 18 horas
+            - Tarea tres: 3 - 4 horas
+            - Tarea cuatro: 6 - 7 horas
+            - Tarea cinco: 4 - 6 horas
+            - Tarea seis: 3 - 4 horas
+            - Tarea siete: 6 - 8 horas
+            - Tarea ocho: 2 - 4 horas
+            - Tarea nueve: 1 - 2 horas
+            - Tarea diez: 2 - 4 horas
+            - Tarea once: 2 - 4 horas
+            - Tarea doce: 1 - 2 horas
+            - Tarea trece: 2 horas
+            - Tarea catorce: 2 - 3 horas
+            - Tarea quince: 2 horas
+        - Tareas del Sprint 2:
+            - Tarea uno: 8 horas
+            - Tarea dos: 8 - 10 horas
+            - Tarea tres: 2 horas
+            - Tarea cuatro: 2 horas
+            - Tarea cinco: 4 horas
+            - Tarea seis: 2 - 3 horas
+            - Tarea siete: 5 - 6 horas
+            - Tarea ocho: 6 - 7 horas
+            - Tarea nueve: 2 - 3 horas
+            - Tarea diez: 2 horas
+            - Tarea once: 3 - 4 horas
+            - Tarea doce: 1 - 2 horas
+            - Tarea trece: 3 - 4 horas
+            - Tarea catorce: 2 horas
+            - Tarea quince: 3 horas
+            - Tarea dieciséis: 1 hora
+            - Tarea diecisiete: 1 hora
+            - Tarea dieciocho: 30 min
+            - Tarea diecinueve: 1 hora
+            - Tarea veinte: 1 hora
+            - Tarea veintiuno: 30 min
+    - Ver tareas en [**Trello**](https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final)
 
 ## 6. **IDENTIFICACIÓN DE RIESGOS**
 
 ### **LISTADO DE RIESGOS POTENCIALES DEL PROYECTO**
 
+#### **Técnicos**
 - Retrasos en el desarrollo.
 - Problemas de compatibilidad con dispositivos.
 - Baja adopción por parte de los usuarios.
