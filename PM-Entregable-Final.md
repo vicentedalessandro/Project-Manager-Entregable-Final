@@ -209,17 +209,26 @@ avanzadas)
 - **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 15 días.
-    - Sprints: son 2 con una duracion de 1 semana cada uno.
-        - Tareas del Sprint 1:
-            - Tarea uno: 2 - 3 horas
-            - Tarea dos: 2 - 3 horas
-            - Tarea tres: 2 - 3 horas
-        - Tareas del Sprint 2:
-            - Tarea uno: 8 horas
-            - Tarea dos: 6 - 8 horas
-            - Tarea tres: 3 - 4 horas    
-            - Tarea cuatro: 2 - 3 horas
-            - Tarea cinco: 3 - 4 horas
+    - Sprints: son 2 sprints con una duracion de 1 semana cada uno.
+
+        **Sprint 1 (1 semana)**
+
+        | **Tarea**             | **Duración**   |
+        |-------------------|------------|
+        | Tarea uno         | 2-3 horas  |
+        | Tarea dos         | 2-3 horas  |
+        | Tarea tres        | 2-3 horas  |
+
+        **Sprint 2 (1 semana)**
+
+        | **Tarea**             | **Duración**   |
+        |-------------------|------------|
+        | Tarea uno         | 8 horas    |
+        | Tarea dos         | 6-8 horas  |
+        | Tarea tres        | 3-4 horas  |
+        | Tarea cuatro      | 2-3 horas  |
+        | Tarea cinco       | 3-4 horas  |
+
     - Ver tareas en [**Trello**](https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final)
 
 ### **SEGUNDO ENTREGABLE**
@@ -231,22 +240,31 @@ avanzadas)
 - **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 1 mes.
-    - Sprints: son 2 con una duracion de 2 semana cada uno.
-        - Tareas del Sprint 1:
-            - Tarea uno: 8 horas
-            - Tarea dos: 6 - 8 horas
-            - Tarea tres: 3 - 4 horas    
-            - Tarea cuatro: 2 - 3 horas
-            - Tarea cinco: 3 - 4 horas
-        - Tareas del Sprint 2:
-            - Tarea uno: 8 - 10 horas
-            - Tarea dos: 10 - 12 horas
-            - Tarea tres: 3 - 4 horas
-            - Tarea cuatro: 2 - 3 horas
-            - Tarea cinco: 2 - 3 horas
-            - Tarea seis: 1 - 2 horas
-            - Tarea siete: 6 - 8 horas
-            - Tarea ocho: 6 - 7 horas
+    - Sprints: son 2 sprints con una duracion de 2 semana cada uno.
+
+        **Sprint 1 (2 semanas)**
+
+        | **Tarea**             | **Duración**   |
+        |-------------------|------------|
+        | Tarea uno         | 8 horas    |
+        | Tarea dos         | 6-8 horas  |
+        | Tarea tres        | 3-4 horas  |
+        | Tarea cuatro      | 2-3 horas  |
+        | Tarea cinco       | 3-4 horas  |
+
+        **Sprint 2 (2 semanas)**
+
+        | **Tarea**            | **Duración**   |
+        |-------------------|------------|
+        | Tarea uno         | 8-10 horas |
+        | Tarea dos         | 10-12 horas|
+        | Tarea tres        | 3-4 horas  |
+        | Tarea cuatro      | 2-3 horas  |
+        | Tarea cinco       | 2-3 horas  |
+        | Tarea seis        | 1-2 horas  |
+        | Tarea siete       | 6-8 horas  |
+        | Tarea ocho        | 6-7 horas  |
+
     - Ver tareas en [**Trello**](https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final)
 
 ### **TERCER ENTREGABLE**
@@ -258,55 +276,157 @@ avanzadas)
 - **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 1 mes y 15 días.
-    - Sprints: son 2 con una duracion de 3 semanas cada uno.
-        - Tareas del Sprint 1:
-            - Tarea uno: 10 - 12 horas
-            - Tarea dos: 16 - 18 horas
-            - Tarea tres: 3 - 4 horas
-            - Tarea cuatro: 6 - 7 horas
-            - Tarea cinco: 4 - 6 horas
-            - Tarea seis: 3 - 4 horas
-            - Tarea siete: 6 - 8 horas
-            - Tarea ocho: 2 - 4 horas
-            - Tarea nueve: 1 - 2 horas
-            - Tarea diez: 2 - 4 horas
-            - Tarea once: 2 - 4 horas
-            - Tarea doce: 1 - 2 horas
-            - Tarea trece: 2 horas
-            - Tarea catorce: 2 - 3 horas
-            - Tarea quince: 2 horas
-        - Tareas del Sprint 2:
-            - Tarea uno: 8 horas
-            - Tarea dos: 8 - 10 horas
-            - Tarea tres: 2 horas
-            - Tarea cuatro: 2 horas
-            - Tarea cinco: 4 horas
-            - Tarea seis: 2 - 3 horas
-            - Tarea siete: 5 - 6 horas
-            - Tarea ocho: 6 - 7 horas
-            - Tarea nueve: 2 - 3 horas
-            - Tarea diez: 2 horas
-            - Tarea once: 3 - 4 horas
-            - Tarea doce: 1 - 2 horas
-            - Tarea trece: 3 - 4 horas
-            - Tarea catorce: 2 horas
-            - Tarea quince: 3 horas
-            - Tarea dieciséis: 1 hora
-            - Tarea diecisiete: 1 hora
-            - Tarea dieciocho: 30 min
-            - Tarea diecinueve: 1 hora
-            - Tarea veinte: 1 hora
-            - Tarea veintiuno: 30 min
+    - Sprints: son 2 sprints con una duracion de 3 semanas cada uno.
+
+        **Sprint 1 (3 semanas)**
+
+        | **Tarea**             | **Duración**   |
+        |-------------------|------------|
+        | Tarea uno         | 10-12 horas|
+        | Tarea dos         | 16-18 horas|
+        | Tarea tres        | 3-4 horas  |
+        | Tarea cuatro      | 6-7 horas  |
+        | Tarea cinco       | 4-6 horas  |
+        | Tarea seis        | 3-4 horas  |
+        | Tarea siete       | 6-8 horas  |
+        | Tarea ocho        | 2-4 horas  |
+        | Tarea nueve       | 1-2 horas  |
+        | Tarea diez        | 2-4 horas  |
+        | Tarea once        | 2-4 horas  |
+        | Tarea doce        | 1-2 horas  |
+        | Tarea trece       | 2 horas    |
+        | Tarea catorce     | 2-3 horas  |
+        | Tarea quince      | 2 horas    |
+
+        **Sprint 2 (3 semanas)**
+
+        | **Tarea**            | **Duración**   |
+        |-------------------|------------|
+        | Tarea uno         | 8 horas    |
+        | Tarea dos         | 8-10 horas |
+        | Tarea tres        | 2 horas    |
+        | Tarea cuatro      | 2 horas    |
+        | Tarea cinco       | 4 horas    |
+        | Tarea seis        | 2-3 horas  |
+        | Tarea siete       | 5-6 horas  |
+        | Tarea ocho        | 6-7 horas  |
+        | Tarea nueve       | 2-3 horas  |
+        | Tarea diez        | 2 horas    |
+        | Tarea once        | 3-4 horas  |
+        | Tarea doce        | 1-2 horas  |
+        | Tarea trece       | 3-4 horas  |
+        | Tarea catorce     | 2 horas    |
+        | Tarea quince      | 3 horas    |
+        | Tarea dieciséis   | 1 hora     |
+        | Tarea diecisiete  | 1 hora     |
+        | Tarea dieciocho   | 30 min     |
+        | Tarea diecinueve  | 1 hora     |
+        | Tarea veinte      | 1 hora     |
+        | Tarea veintiuno   | 30 min     |
+
     - Ver tareas en [**Trello**](https://trello.com/b/ozaTjmyb/e-commerce-limine-pm-entregable-final)
 
 ## 6. **IDENTIFICACIÓN DE RIESGOS**
 
-### **LISTADO DE RIESGOS POTENCIALES DEL PROYECTO**
+#### **LISTADO DE RIESGOS POTENCIALES DEL PROYECTO**
 
-#### **Técnicos**
 - Retrasos en el desarrollo.
 - Problemas de compatibilidad con dispositivos.
 - Baja adopción por parte de los usuarios.
-- Dependencia de integraciones con otras herramientas.
 
 ## 7. **EVALUACIÓN DE RIESGOS Y PRIORIZACIÓN**
+
+| **Riesgo**                                 | **Impacto** | **Probabilidad** | **Prioridad** |
+|--------------------------------------------|-------------|------------------|---------------|
+| Retrasos en el desarrollo                  | Alto        | Media            | Alta          |
+| Problemas de compatibilidad con dispositivos | Medio       | Alta             | Alta          |
+| Baja adopción por parte de los usuarios    | Alto        | Media            | Alta          |
+
+## 8. **PLANIFICACIÓN DE RESPUESTA A RIESGOS**
+
+### **ESTRATEGIAS DE MITIGACIÓN, ACEPTACIÓN, TRANSFERENCIA Y EVITACIÓN PARA CADA RIESGO IDENTIFICADO**
+
+#### 1. **Retrasos en el desarrollo**
+
+- **Mitigación**:
+  - Implementar metodologías ágiles para mejorar la planificación y ejecución del proyecto.
+
+- **Aceptación**:
+  - Aceptar que pueden suceder pequeños retrasos y ajustar el cronograma del proyecto según sea necesario, manteniendo comunicación constante con las partes interesadas.
+
+- **Transferencia**:
+  - Delegar partes del desarrollo a proveedores externos o contratar consultores para asegurar que las tareas críticas se completen a tiempo.
+
+- **Evitación**:
+  - Realizar una planificación detallada desde el inicio, identificando y eliminando posibles "cuellos de botella".
+  - Asignar recursos adecuados y asegurar que el equipo esté bien capacitado y preparado.
+
+#### 2. **Problemas de compatibilidad con dispositivos**
+
+- **Mitigación**:
+  - Realizar pruebas en múltiples dispositivos y plataformas.
+  - Utilizar herramientas de desarrollo multiplataforma y seguir buenas prácticas de desarrollo.
+
+- **Aceptación**:
+  - Reconocer que pueden existir algunos problemas de compatibilidad menores.
+
+- **Transferencia**:
+  - Contratar empresas especializadas en pruebas de compatibilidad.
+
+- **Evitación**:
+  - Optar por tecnologías y estándares que garantizan una mayor compatibilidad desde el inicio del proyecto.
+  - Diseñar la aplicación con una arquitectura flexible que facilite adaptaciones y actualizaciones.
+
+#### 3. **Baja adopción por parte de los usuarios**
+
+- **Mitigación**:
+  - Realizar estudios de mercado y obtener feedback temprano de los usuarios.
+
+- **Aceptación**:
+  - Aceptar que la adopción puede ser progresiva y establecer expectativas realistas con los interesados.
+
+- **Transferencia**:
+  - Asociarse con empresas de marketing especializadas para mejorar la visibilidad y promoción del producto.
+
+- **Evitación**:
+  - Realizar una investigación de mercado antes del desarrollo para asegurarse de que el producto cumpla con las necesidades basicas.
+  - Involucrar usuarios en el proceso de desarrollo para asegurar que el producto sea relevante y útil.
+
+### **PLAN DE CONTINGENCIA PARA LOS RIESGOS MÁS CRÍTICOS**
+
+#### 1. **Retrasos en el desarrollo**
+
+- **Acción Inmediata**: 
+  - Daily Stand-ups para identificar y resolver bloqueos rápidamente.
+  - Revisar y ajustar el cronograma del proyecto regularmente.
+
+- **Medidas Correctivas**:
+  - Reasignar recursos o contratar de forma temporal desarrolladores adicionales.
+  - Priorizar las características críticas y aplazar las menos importantes si es necesario.
+
+- **Plan de Comunicación**:
+  - Mantener a todos los interesados informados sobre el estado del proyecto y cualquier ajuste en el cronograma.
+
+#### 2. **Problemas de compatibilidad con dispositivos**
+
+- **Acción Inmediata**:
+  - Iniciar pruebas intensivas en los dispositivos y plataformas problemáticas.
+  - Utilizar entornos de prueba automatizados.
+
+- **Medidas Correctivas**:
+  - Desarrollar y lanzar parches o actualizaciones para resolver problemas de compatibilidad.
+
+- **Plan de Comunicación**:
+  - Informar sobre los problemas de compatibilidad y las medidas que se están tomando para resolverlos.
+
+#### 3. **Baja adopción por parte de los usuarios**
+
+- **Acción Inmediata**:
+  - Realizar encuestas a los usuarios para identificar las barreras de adopción.
+  - Analizar datos para detectar patrones y áreas a mejorar.
+
+- **Medidas Correctivas**:
+  - Mejorar la experiencia del usuario (UX) y la interfaz de usuario (UI) basándose en el feedback recibido.
+
+- **Plan de Comunicación**:
+  - Crear contenido educativo y de soporte para ayudar a los usuarios a entender y utilizar el producto de manera efectiva.
