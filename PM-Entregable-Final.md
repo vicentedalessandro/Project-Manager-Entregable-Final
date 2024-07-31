@@ -185,3 +185,117 @@ Las últimos 3 tableros (To-do, Current, Done) serviran como una guia para la re
 ![Tareas de los Sprints](/imagenes/sprint-task.png)
 ### **Tablero con las distintas estapas de una Tarea**
 ![Tableros de Tareas](/imagenes/todo-current-done.png)
+
+## 5. **DEFINICIÓN DE ENTREGABLES, CRITERIOS DE ACEPTACIÓN Y ESTIMACIÓN DE TIEMPO**
+
+### **LISTADO DE ENTREGABLES**
+
+1. PÁGINA INFORMATIVA - MVP 
+2.  CATÁLOGO DE PRODUCTOS (Implementación de funcionalidades
+avanzadas)
+3.  PEDIDOS DE COMPRA (Finalización del proyecto)
+
+### **PRIMER ENTREGABLE**
+
+- **Alcance:** Roles y Permisos, Registro de Usuario, Inicio de Sesion de Usuario y About Us de la empresa. 
+- **Formato:** sera de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
+- **Fecha de entrega:** 15/08/2024.
+- **Responsable**: Carlos García.
+- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
+- **Estimación de tiempo para cada tarea y del entregable:**
+    - Entregable: 15 días.
+    - Sprints: son 2 con una duracion de 1 semana cada uno.
+    - Tareas del Sprint 1:
+        - Tarea uno: 2 - 3 horas
+        - Tarea dos: 2 - 3 horas
+        - Tarea tres: 2 - 3 horas
+    - Tareas del Sprint 2:
+        - Tarea uno: 8 horas
+        - Tarea dos: 6 - 8 horas
+        - Tarea tres: 3 - 4 horas    
+        - Tarea cuatro: 2 - 3 horas
+        - Tarea cinco: 3 - 4 horas
+
+### **SEGUNDO ENTREGABLE**
+
+- **Alcance:** agregar o editar Marcas, Categorías y Productos, Catálogo de Productos y Filtrado de los mismos.
+- **Formato:** sera de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
+- **Fecha de entrega:** 15/09/2024.
+- **Responsable**: María Fernández.
+- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
+- **Estimación de tiempo para cada tarea y del entregable:**
+    - Entregable: 1 mes.
+    - Sprints: son 2 con una duracion de 2 semana cada uno.
+    - Tareas del Sprint 1:
+        - Tarea uno: 8 horas
+        - Tarea dos: 6 - 8 horas
+        - Tarea tres: 3 - 4 horas    
+        - Tarea cuatro: 2 - 3 horas
+        - Tarea cinco: 3 - 4 horas
+    - Tareas del Sprint 2:
+        - Tarea uno: 8 - 10 horas
+        - Tarea dos: 10 - 12 horas
+        - Tarea tres: 3 - 4 horas
+        - Tarea cuatro: 2 - 3 horas
+        - Tarea cinco: 2 - 3 horas
+        - Tarea seis: 1 - 2 horas
+        - Tarea siete: 6 - 8 horas
+        - Tarea ocho: 6 - 7 horas
+
+### **TERCER ENTREGABLE**
+
+- **Alcance:** Carrito de Compras, Solicitud de Pedidos y Facturación de Compras.
+- **Formato:** sera de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
+- **Fecha de entrega:** 30/10/2024.
+- **Responsables**: Carlos García y María Fernández.
+- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
+- **Estimación de tiempo para cada tarea y del entregable:**
+    - Entregable: 1 mes y 15 días.
+    - Sprints: son 2 con una duracion de 3 semanas cada uno.
+    - Tareas del Sprint 1:
+        - Tarea uno: 10 - 12 horas
+        - Tarea dos: 16 - 18 horas
+        - Tarea tres: 3 - 4 horas
+        - Tarea cuatro: 6 - 7 horas
+        - Tarea cinco: 4 - 6 horas
+        - Tarea seis: 3 - 4 horas
+        - Tarea siete: 6 - 8 horas
+        - Tarea ocho: 2 - 4 horas
+        - Tarea nueve: 1 - 2 horas
+        - Tarea diez: 2 - 4 horas
+        - Tarea once: 2 - 4 horas
+        - Tarea doce: 1 - 2 horas
+        - Tarea trece: 2 horas
+        - Tarea catorce: 2 - 3 horas
+        - Tarea quince: 2 horas
+    - Tareas del Sprint 2:
+        - Tarea uno: 8 horas
+        - Tarea dos: 8 - 10 horas
+        - Tarea tres: 2 horas
+        - Tarea cuatro: 2 horas
+        - Tarea cinco: 4 horas
+        - Tarea seis: 2 - 3 horas
+        - Tarea siete: 5 - 6 horas
+        - Tarea ocho: 6 - 7 horas
+        - Tarea nueve: 2 - 3 horas
+        - Tarea diez: 2 horas
+        - Tarea once: 3 - 4 horas
+        - Tarea doce: 1 - 2 horas
+        - Tarea trece: 3 - 4 horas
+        - Tarea catorce: 2 horas
+        - Tarea quince: 3 horas
+        - Tarea dieciséis: 1 hora
+        - Tarea diecisiete: 1 hora
+        - Tarea dieciocho: 30 min
+        - Tarea diecinueve: 1 hora
+        - Tarea veinte: 1 hora
+        - Tarea veintiuno: 30 min
+
+## 6. **IDENTIFICACIÓN DE RIESGOS**
+
+### **LISTADO DE RIESGOS POTENCIALES DEL PROYECTO**
+
+- Retrasos en el desarrollo.
+- Problemas de compatibilidad con dispositivos.
+- Baja adopción por parte de los usuarios.
+- Dependencia de integraciones con otras herramientas.
