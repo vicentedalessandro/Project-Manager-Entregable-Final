@@ -430,3 +430,32 @@ avanzadas)
 
 - **Plan de Comunicación**:
   - Crear contenido educativo y de soporte para ayudar a los usuarios a entender y utilizar el producto de manera efectiva.
+
+## 9. **PRODUCTO MÍNIMO VIABLE (MVP) Y ROADMAP**
+
+### **Roadmap del Proyecto**
+
+```plaintext
+Julio 2024
+|----------------------------------------------|
+          Planficación Incial
+
+Agosto 2024
+|-------------------|-------------------------|
+   Primer Entregable
+|-------------------|-------------------------|
+         Sprint 1                    Sprint 2
+
+Septiembre 2024
+|------------------------|---------------------|
+   Segundo Entregable
+|-------------------|-------------------------|
+         Sprint 1                    Sprint 2
+
+Octubre 2024
+|------------------------|---------------------|
+|-------------------|-------------------------|
+   Tercer Entregable
+         Sprint 1                    Sprint 2
+|-------------------|-------------------------|
+```
