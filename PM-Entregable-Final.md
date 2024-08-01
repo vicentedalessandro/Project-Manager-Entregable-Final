@@ -330,9 +330,9 @@ avanzadas)
 
 #### **LISTADO DE RIESGOS POTENCIALES DEL PROYECTO**
 
-- Retrasos en el desarrollo.
-- Problemas de compatibilidad con dispositivos.
-- Baja adopción por parte de los usuarios.
+1. Retrasos en el desarrollo.
+2. Problemas de compatibilidad con dispositivos.
+3. Baja adopción por parte de los usuarios.
 
 ## 7. **EVALUACIÓN DE RIESGOS Y PRIORIZACIÓN**
 
@@ -433,29 +433,67 @@ avanzadas)
 
 ## 9. **PRODUCTO MÍNIMO VIABLE (MVP) Y ROADMAP**
 
-### **Roadmap del Proyecto**
+### **DEFINICIÓN DEL MVP**
+
+- **Producto:** e-commerce de productos solares.
+- **Definición:** página web para comercio electronico. Diseñada para publicar productos y venderlos a los clientes interesados.
+- **Valor para el Usuario**: brinda un espacio para comprar productos solares desde internet y con cualquier medio de pago.
+
+### **JUSTIFICACIÓN DEL MVP**
+
+Una página web para comercio electrónico de productos solares es útil para lograr los objetivos de expansión de ventas de Límine Energía Renovable. Esta estrategia se justifica por varias razones:
+
+- Alcance y Accesibilidad.
+
+- Comodidad para el Cliente.
+
+- Diversos Métodos de Pago.
+
+- Optimización del stock de productos.
+
+- Visibilidad y Marketing.
+
+- Adaptabilidad y Escalabilidad.
+
+### **PLAN DE LANZAMIENTO DEL MVP**
+
+- Identificación de las Funcionalidades Esenciales: definir claramente las características críticas que resolverán el problema principal del usuario y ofrecerán valor inmediato.
+
+- Desarrollo del MVP: establecer un cronograma de desarrollo con hitos claros y fechas de entrega.
+
+- Pruebas Internas: realizar pruebas internas para saber si el MVP funcione correctamente
+
+- Estrategias de Marketing: realizar anuncios en redes sociales.
+
+- Lanzamiento del MVP: asegurar un soporte adecuado para los usuarios, incluyendo canales de atención y respuesta rápida a problemas o sugerencias.
+
+- Iteración y Mejora Continua: analizar la retroalimentación y los datos recolectados para identificar áreas de mejora.
+
+### **ROADMAP DEL PROYECTO**
 
 ```plaintext
 Julio 2024
-|----------------------------------------------|
+|---------------------------------------------|
           Planficación Incial
 
 Agosto 2024
+            Primer Entregable
 |-------------------|-------------------------|
-   Primer Entregable
+   
 |-------------------|-------------------------|
-         Sprint 1                    Sprint 2
+  Sprint 1            Sprint 2
 
 Septiembre 2024
-|------------------------|---------------------|
-   Segundo Entregable
+            Segundo Entregable
 |-------------------|-------------------------|
-         Sprint 1                    Sprint 2
+   
+|-------------------|-------------------------|
+  Sprint 1            Sprint 2
 
 Octubre 2024
-|------------------------|---------------------|
+            Tercer Entregable
 |-------------------|-------------------------|
-   Tercer Entregable
-         Sprint 1                    Sprint 2
+   
+  Sprint 1            Sprint 2
 |-------------------|-------------------------|
 ```
