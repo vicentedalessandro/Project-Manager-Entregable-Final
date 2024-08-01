@@ -4,7 +4,7 @@
 
 ### **CONTEXTO**
 
-La empresa **Límine Energía Renovable** busca expandir sus **ventas** más allá de Junín, Bolívar y la zona. Cómo principal interes se busca lograr un **e-commerce** donde los clientes/usuarios tengan un catálogo de productos y puedan realizar compras atraves de la plataforma. 
+La empresa **Límine Energía Renovable** busca expandir sus **ventas** más allá de Junín, Bolívar y la zona. Cómo principal interés se busca lograr un **e-commerce** donde los clientes/usuarios tengan un catálogo de productos y puedan realizar compras atravez de la plataforma. 
 
 ### **OBJETIVOS PRINCIPALES**
 1. Expandir las ventas a todo el país.
@@ -22,18 +22,18 @@ La empresa **Límine Energía Renovable** busca expandir sus **ventas** más all
     1. About us.
     2. Catálogo de Productos.
     3. Carrito de Compras.
-    4. Metodos de Pago y Facturación.
+    4. Métodos de Pago y Facturación.
 
 ### **OBJETIVOS SMART**
 
-1. Generar un espacio de encuentro entre Límine y el Cliente. Es importante que en el e-commerce haya una seccion "About Us", en donde se hablará brevemente de la empresa, como por ejemplo, intereses, objetivos e integrantes de la misma.
-2. Generar un catálago para la visualización de los productos. Con esto, estariamos logrando informar al cliente sobre los productos que vende Límine, detallando nombre, marca, precios (contado, tarjeta) y stock. Ademas, esto tambien le brindará a Límine un sistema para controlar el stock y los precios de sus productos.
-3. Generar una logica de negocio para la venta de productos atraves del e-commerce. Se hará un sistema de pedidos con carrito de compras para que el cliente pueda seleccionar productos del catalago y realizar la compra de forma rapida y sencilla.
-4. Contratar microservicio para metodos de pago y facturación. Buscaremos contratar un microservicio para los distintos metodos de pago y factuación, asi no trendremos que invertir tiempo y costo en desarrollar uno. Ya que, hoy en dia, un microservicio de estas caracteristicas no conlleva un gasto importante, ademas de que evitariamos tener que generar un presupuesto adicional para el mantenimiento del mismo.
+1. Generar un espacio de encuentro entre Límine y el Cliente. Es importante que en el e-commerce haya una sección "About Us", en donde se hablará brevemente de la empresa, como por ejemplo, intereses, objetivos e integrantes de la misma.
+2. Generar un catálogo para la visualización de los productos. Con esto, estaríamos logrando informar al cliente sobre los productos que vende Límine, detallando nombre, marca, precios (contado, tarjeta) y stock. Además, esto tambien le brindará a Límine un sistema para controlar el stock y los precios de sus productos.
+3. Generar una lógica de negocio para la venta de productos atravez del e-commerce. Se hará un sistema de pedidos con carrito de compras para que el cliente pueda seleccionar productos del catálogo y realizar la compra de forma rápida y sencilla.
+4. Contratar microservicio para métodos de pago y facturación. Buscaremos contratar un microservicio para los distintos métodos de pago y facturación, asi no tendremos que invertir tiempo y costo en desarrollar uno. Ya que, hoy en día, un microservicio de estas características no conlleva un gasto importante, ademas de que evitaríamos tener que generar un presupuesto adicional para el mantenimiento del mismo.
 
 ### **STAKEHOLDERS**
 
-**WEGA ENERGY** es el principal proveedor de Límine. Por eso, se buscara mostrar en la pagina un espacio pequeño, pero informativo y de redirección. Con eso ultimo, nos referimos a direccionar al cliete, si asi lo desea, a la página oficial de Wega Energy y asi saber más sobre ellos.
+**WEGA ENERGY** es el principal proveedor de Límine. Por eso, se buscara mostrar en la pagina un espacio pequeño, pero informativo y de redirección. Con eso ultimo, nos referimos a direccionar al cliente, si asi lo desea, a la página oficial de Wega Energy y asi saber más sobre ellos.
 
 ## 3. **IMPLEMENTACIÓN DE SCRUM**
 
@@ -101,7 +101,7 @@ La empresa **Límine Energía Renovable** busca expandir sus **ventas** más all
 
 **Descripción**
 
-Se buscará mantener al equipo sincronizado con el objetivo de identificar obstáculos y planificar el trabajo del día. Tendra una duración maxima de 15 minutos y se realizara de forma diaria.
+Se buscará mantener al equipo sincronizado con el objetivo de identificar obstáculos y planificar el trabajo del día. Tendrá una duración máxima de 15 minutos y se realizara de forma diaria.
 
 **Planificación**
 
@@ -118,22 +118,22 @@ Se buscará definir qué se va a lograr en el próximo sprint y cómo se va a ha
 
 **Planificación**
 
-En este encuentro va a participar todo el equipo Scrum. Dondé se útilizara una agenda que contiene las siguientes tres etapas:
+En este encuentro va a participar todo el equipo Scrum. Donde se utilizará una agenda que contiene las siguientes tres etapas:
 - **Revisión del Backlog del Producto:** el Product Owner presenta los ítems prioritarios.
 - **Establecimiento del Objetivo del Sprint:** el equipo decide qué se puede lograr durante el sprint.
 - **División de Tareas:** desglosar los ítems seleccionados en tareas más pequeñas y manejables.
 
-A partir de aca se utilizara un tablero colaborativo, en este caso, **Trello**.
+A partir de acá se utilizara un tablero colaborativo, en este caso, **Trello**.
 
 #### 3. **Sprint Review**
 
 **Descripción**
 
-Se buscará mostrar el trabajo completado durante el sprint y se hara un feedback con las partes interesadas. Este encuentro se realizara al final de cada sprint y tendra una duración de 1 a 2 horas.
+Se buscará mostrar el trabajo completado durante el sprint y se hará un feedback con las partes interesadas. Este encuentro se realizara al final de cada sprint y tendrá una duración de 1 a 2 horas.
 
 **Planificación**
 
-En este encuentro va a participar todo el equipo Scrum y el cliente. Dondé se útilizara nuevamente una agenda que contiene las siguientes tres etapas:
+En este encuentro va a participar todo el equipo Scrum y el cliente. Donde se utilizara nuevamente una agenda que contiene las siguientes tres etapas:
 - **Demostración:** el equipo va a mostrar el trabajo terminado.
 - **Feedback:** obtener comentarios de las partes interesadas.
 - **Actualización del Backlog del Producto:** acomodar el backlog respecto al feedback recibido.
@@ -142,18 +142,18 @@ En este encuentro va a participar todo el equipo Scrum y el cliente. Dondé se �
 
 **Descripción**
 
-Se buscará reflexionar sobre el sprint anterior para mejorar los procesos y la colaboración del equipo. Este encuentro se realizara al final de cada sprint, después de la Sprint Review y tendra una duración de 1 a 2 horas.
+Se buscará reflexionar sobre el sprint anterior para mejorar los procesos y la colaboración del equipo. Este encuentro se realizara al final de cada sprint, después de la Sprint Review y tendrá una duración de 1 a 2 horas.
 
 **Planificación**
 
-En este encuentro va a participar todo el equipo Scrum. Dondé se útilizara por tercera vez una agenda que contiene las siguientes tres etapas:
-- **Revisión del Sprint:** reflexionar sobre lo que salio bien, lo que salio mal y lo que se puede mejorar.
-- **Ver Mejoras:** Proponer metodos para mejorar en el próximo sprint.
+En este encuentro va a participar todo el equipo Scrum. Donde se utilizara por tercera vez una agenda que contiene las siguientes tres etapas:
+- **Revisión del Sprint:** reflexionar sobre lo que salió bien, lo que salió mal y lo que se puede mejorar.
+- **Ver Mejoras:** Proponer métodos para mejorar en el próximo sprint.
 - **Plan de Mejoras:** delegar responsabilidades para las mejoras propuestas en el punto anterior.
 
 #### **HISTORIAS DE USUARIOS - BACKLOG - SPRINTS**
 
-Las **Historias de Usuarios**, el **Backlog** y los **Sprints** estan definidos en el tablero colaborativo.
+Las **Historias de Usuarios**, el **Backlog** y los **Sprints** están definidos en el tablero colaborativo.
 
 ## 4. **USO DE TABLEROS COLABORATIVOS**
 
@@ -163,20 +163,20 @@ Como tablero colaborativo he seleccionado [**Trello**](https://trello.com/b/ozaT
 
 **JUSTIFICACIÓN** 
 
-Vi un poco de **Jira**, es una herramienta bastante fuerte, pero todavia no tengo practica en ella. Con Trello ya tenia un contacto mas cercano, aun asi no llego a utilizarlo a su maximo potencia. Sentia que podia ser la herramienta adecuada para realizar este proyecto por su sencilles a la hora de manejar tableros, tarjetas y tareas.
+Vi un poco de **Jira**, es una herramienta bastante fuerte, pero todavía no tengo practica en ella. Con Trello ya tenia un contacto mas cercano, aun asi no llego a utilizarlo a su máximo potencia. Sentía que podía ser la herramienta adecuada para realizar este proyecto por su sencillez a la hora de manejar tableros, tarjetas y tareas.
 
 **EJEMPLOS DE USO**
 
-Este contendra 6 tableros
+Este contendrá 6 tableros
 
-- **Historias de Usuarios**: contendra una lista ordenada de las historias de usuarios.
-- **Backlog**: contendra una lista ordenada de las funcionalidades que requiere el producto.
-- **Sprints**: contendra los distintos sprinst programados con sus backlogs seleccionados y sus tareas correspondientes.
+- **Historias de Usuarios**: contendrá una lista ordenada de las historias de usuarios.
+- **Backlog**: contendrá una lista ordenada de las funcionalidades que requiere el producto.
+- **Sprints**: contendrá los distintos sprints programados con sus backlogs seleccionados y sus tareas correspondientes.
 - **To-do**: tareas por hacer.
 - **Current**: tareas en desarrollo.
 - **Done**: tareas terminadas.
 
-Las últimos 3 tableros (To-do, Current, Done) serviran como una guia para la realizacion de tareas, mantener cierta organizacion con los tiempos y cantidad de tareas que se haran en simultaneo.
+Las últimos 3 tableros (To-do, Current, Done) servirán como una guía para la realización de tareas, mantener cierta organización con los tiempos y cantidad de tareas que se harán en simultaneo.
 
 ---
 
@@ -186,7 +186,7 @@ Las últimos 3 tableros (To-do, Current, Done) serviran como una guia para la re
 ### **Tareas del Sprint**
 ![Tareas de los Sprints](/imagenes/sprint-task.png)
 
-### **Tablero con las distintas estapas de una Tarea**
+### **Tablero con las distintas etapas de una Tarea**
 ![Tableros de Tareas](/imagenes/todo-current-done.png)
 
 ---
@@ -202,14 +202,14 @@ avanzadas)
 
 ### **PRIMER ENTREGABLE**
 
-- **Alcance:** Roles y Permisos, Registro de Usuario, Inicio de Sesion de Usuario y About Us de la empresa. 
-- **Formato:** sera de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
+- **Alcance:** Roles y Permisos, Registro de Usuario, Inicio de Sesión de Usuario y About Us de la empresa. 
+- **Formato:** será de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
 - **Fecha de entrega:** 15/08/2024.
 - **Responsable**: Carlos García.
-- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
+- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendrá que cumplir con los estándares del diseño proporcionado por el desarrollador UX UI y deberá aprobar las pruebas de Testing.
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 15 días.
-    - Sprints: son 2 sprints con una duracion de 1 semana cada uno.
+    - Sprints: son 2 sprints con una duración de 1 semana cada uno.
 
         **Sprint 1 (1 semana)**
 
@@ -234,13 +234,13 @@ avanzadas)
 ### **SEGUNDO ENTREGABLE**
 
 - **Alcance:** agregar o editar Marcas, Categorías y Productos, Catálogo de Productos y Filtrado de los mismos.
-- **Formato:** sera de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
+- **Formato:** será de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
 - **Fecha de entrega:** 15/09/2024.
 - **Responsable**: María Fernández.
-- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
+- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendrá que cumplir con los estándares del diseño proporcionado por el desarrollador UX UI y deberá aprobar las pruebas de Testing.
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 1 mes.
-    - Sprints: son 2 sprints con una duracion de 2 semana cada uno.
+    - Sprints: son 2 sprints con una duración de 2 semana cada uno.
 
         **Sprint 1 (2 semanas)**
 
@@ -270,13 +270,13 @@ avanzadas)
 ### **TERCER ENTREGABLE**
 
 - **Alcance:** Carrito de Compras, Solicitud de Pedidos y Facturación de Compras.
-- **Formato:** sera de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
+- **Formato:** será de forma digital. Se presentara la pagina web funcional con los alcances anteriormente mencionados.
 - **Fecha de entrega:** 30/10/2024.
 - **Responsables**: Carlos García y María Fernández.
-- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendra que cumplir con los estandares del diseño proporcionado por el desarrollador UX UI y debera aprobar las pruebas de Testing.
+- **Criterios de aceptación:** deberán estar finalizados todos los alcances anteriormente mencionados, tambien tendrá que cumplir con los estándares del diseño proporcionado por el desarrollador UX UI y deberá aprobar las pruebas de Testing.
 - **Estimación de tiempo para cada tarea y del entregable:**
     - Entregable: 1 mes y 15 días.
-    - Sprints: son 2 sprints con una duracion de 3 semanas cada uno.
+    - Sprints: son 2 sprints con una duración de 3 semanas cada uno.
 
         **Sprint 1 (3 semanas)**
 
@@ -389,7 +389,7 @@ avanzadas)
   - Asociarse con empresas de marketing especializadas para mejorar la visibilidad y promoción del producto.
 
 - **Evitación**:
-  - Realizar una investigación de mercado antes del desarrollo para asegurarse de que el producto cumpla con las necesidades basicas.
+  - Realizar una investigación de mercado antes del desarrollo para asegurarse de que el producto cumpla con las necesidades básicas.
   - Involucrar usuarios en el proceso de desarrollo para asegurar que el producto sea relevante y útil.
 
 ### **PLAN DE CONTINGENCIA PARA LOS RIESGOS MÁS CRÍTICOS**
@@ -436,7 +436,7 @@ avanzadas)
 ### **DEFINICIÓN DEL MVP**
 
 - **Producto:** e-commerce de productos solares.
-- **Definición:** página web para comercio electronico. Diseñada para publicar productos y venderlos a los clientes interesados.
+- **Definición:** página web para comercio electrónico. Diseñada para publicar productos y venderlos a los clientes interesados.
 - **Valor para el Usuario**: brinda un espacio para comprar productos solares desde internet y con cualquier medio de pago.
 
 ### **JUSTIFICACIÓN DEL MVP**
@@ -474,7 +474,7 @@ Una página web para comercio electrónico de productos solares es útil para lo
 ```plaintext
 Julio 2024
 |---------------------------------------------|
-          Planficación Incial
+          Planificación Inicial
 
 Agosto 2024
             Primer Entregable
